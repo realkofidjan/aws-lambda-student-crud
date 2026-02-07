@@ -1,2 +1,2 @@
-# IT-Consortium
+# AWS Lambda Student Management
  
